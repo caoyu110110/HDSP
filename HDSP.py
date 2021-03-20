@@ -27,5 +27,9 @@ deque.append 、deque.popleft
 """
 创建git 仓库远程链接  用户名caoyu110110 密码caoyu19934250
 
-
+git init 添加仓库
+git add README.md 添加说明文件（帮助文档）
+git commit -m "first commit" 提交文件
+git cgit remote add origin git@github.com:caoyu110110/HDSP.git
+git push -u origin main
 """
